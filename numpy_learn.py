@@ -102,3 +102,4 @@ for column in A.T:
 print(A.flatten())
 for item in A.flat:
     print(item)
+# 新的改变
